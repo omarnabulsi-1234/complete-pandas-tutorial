@@ -1,15 +1,15 @@
-Day,Coffee Type,Units Sold
-Monday,Espresso,25
-Monday,Latte,15
-Tuesday,Espresso,30
-Tuesday,Latte,20
-Wednesday,Espresso,35
-Wednesday,Latte,25
-Thursday,Espresso,40
-Thursday,Latte,30
-Friday,Espresso,45
-Friday,Latte,35
-Saturday,Espresso,45
-Saturday,Latte,35
-Sunday,Espresso,45
-Sunday,Latte,35
+Day,Coffee Type,Units Sold,Price
+Monday,Espresso,25,3
+Monday,Latte,15,2
+Tuesday,Espresso,30,3
+Tuesday,Latte,20,2
+Wednesday,Espresso,35,3
+Wednesday,Latte,25,2
+Thursday,Espresso,40,3
+Thursday,Latte,30,2
+Friday,Espresso,45,3
+Friday,Latte,35,2
+Saturday,Espresso,45,3
+Saturday,Latte,35,2
+Sunday,Espresso,45,3
+Sunday,Latte,35,2
